@@ -1,0 +1,4 @@
+result=( ${(Q)"${(z)$(<<\EO:result
+'postgres' 'bitnami/postgresql' 'postfixadmin' 'circleci/postgres' 'bitnami/postgresql-repmgr' 'ubuntu/postgres' 'rapidfort/postgresql' 'kasmweb/postman' 'bitnami/postgres-exporter' 'clearlinux/postgres' 'cimg/postgres' 'ibmcom/postgresql-s390x' 'vmware/postgresql' 'ibmcom/postgresql' 'vmware/postgresql-photon' 'circleci/postgres-script-enhance' 'pachyderm/postgresql' 'objectscale/postgresql-repmgr' 'circleci/postgres-upgrade' 'drud/postgres' 'cockroachdb/postgres-test' 'aggipp/postgres-ssh' 'silintl/postgresql-backup-restore' 'airbyte/postgres-singer-source-abprotocol' 'ibmcom/posix_ipc-ppc64le'
+EO:result
+)}"} )
